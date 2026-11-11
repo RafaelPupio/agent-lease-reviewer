@@ -11,4 +11,4 @@ Hub. Read this, then open only the note the task needs.
 How the owner works is in [rafael.md](rafael.md), a copy of the portfolio's shared
 note. Writing conventions only, nothing personal.
 
-Private repo, kept fit to publish: nothing personal in any of these files.
+Public repo. Nothing personal in any of these files.
