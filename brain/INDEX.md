@@ -8,7 +8,7 @@ Hub. Read this, then open only the note the task needs.
 | [handoff.md](handoff.md) | Picking up work from another session or tool. |
 | [log/decisions.md](log/decisions.md) | About to redo a decision. Check it was not already made. |
 
-Conventions about how Rafael works are shared across the portfolio and live
-in the root brain's `rafael.md`, not duplicated here.
+How the owner works is in [rafael.md](rafael.md), a copy of the portfolio's shared
+note. It is personal: remove it before this repository is ever made public.
 
-Public repo. Nothing personal in any of these files.
+Private repo, kept fit to publish: nothing personal outside `rafael.md`.
